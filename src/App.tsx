@@ -8,6 +8,8 @@ function App() {
   return (
     <div className="App">
       <p>Lorem ipsum dolor sit.</p>
+      <p>lorem ipsum dolor</p>
+      <p>lorem ipsum</p>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hello Vite + React!</p>
